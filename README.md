@@ -12,4 +12,4 @@ Decompiled source code dari aplikasi DigiTS (com.ypt.tsmobile).
 - Apktool 3.0.2
 
 ## Disclaimer
-Repository ini bersifat **private** dan hanya untuk keperluan security research internal.
+Repository ini hanya untuk keperluan security research internal.
